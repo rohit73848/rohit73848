@@ -1,4 +1,4 @@
-# Hi 👋 I'm Rohit Biswas
+# Hi 👋 I'm Rahit Biswas
 
 🌱 I’m currently learning Web Development  
 💻 Skills: HTML, CSS  
